@@ -10,7 +10,7 @@ Well, it doesn't need to be like that.
 
 ## Present
 
-Yes – I sent feedback of this unintuitive behaviour and they responded thet the request was being delivered to the devs. Great!
+Yes – I sent feedback of this unintuitive behavior and they responded that the request was being delivered to the devs. Great!
 
 However – in the mean time, this userscript should be of help in keeping your sanity with the study structure page.
 
